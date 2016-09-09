@@ -1,0 +1,503 @@
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" itemId="561" public="1" featured="0" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://bodies.haa.pitt.edu/admin/items/show/561?output=omeka-xml" accessDate="2016-09-09T13:10:37+00:00">
+<fileContainer>
+<file fileId="670">
+<src>
+http://bodies.haa.pitt.edu/files/original/e6a2047b5d9a2efc0d51f82e4ec67897.jpg
+</src>
+<authentication>984a73f96836b6d55bea45b4e67543b3</authentication>
+</file>
+<file fileId="671">
+<src>
+http://bodies.haa.pitt.edu/files/original/a88270f90536c3188cb28b5173e0a810.jpg
+</src>
+<authentication>d32018e75ddddb067becab2d308b0387</authentication>
+</file>
+</fileContainer>
+<collection collectionId="1">
+<elementSetContainer>
+<elementSet elementSetId="1">
+<name>Dublin Core</name>
+<description>
+The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.
+</description>
+<elementContainer>
+<element elementId="50">
+<name>Title</name>
+<description>A name given to the resource</description>
+<elementTextContainer>
+<elementText elementTextId="2">
+<text>
+Ohio State Reformatory, State Archives Series 1416AV, "Bertillon cards with photographs [graphic], 1901-1921"
+</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="41">
+<name>Description</name>
+<description>An account of the resource</description>
+<elementTextContainer>
+<elementText elementTextId="3">
+<text>Earliest series of OSR cards.</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="39">
+<name>Creator</name>
+<description>
+An entity primarily responsible for making the resource
+</description>
+<elementTextContainer>
+<elementText elementTextId="4">
+<text>Ohio State Reformatory</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="48">
+<name>Source</name>
+<description>
+A related resource from which the described resource is derived
+</description>
+<elementTextContainer>
+<elementText elementTextId="5">
+<text>Ohio History Connection</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="40">
+<name>Date</name>
+<description>
+A point or period of time associated with an event in the lifecycle of the resource
+</description>
+<elementTextContainer>
+<elementText elementTextId="6">
+<text>1901-1921</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="43">
+<name>Identifier</name>
+<description>
+An unambiguous reference to the resource within a given context
+</description>
+<elementTextContainer>
+<elementText elementTextId="7">
+<text>OSR1416AV</text>
+</elementText>
+</elementTextContainer>
+</element>
+</elementContainer>
+</elementSet>
+</elementSetContainer>
+</collection>
+<itemType itemTypeId="21">
+<name>
+Type 3 OSR Bertillon Card Form: 1900s Card with "Eng. Ht"
+</name>
+<description>
+If you do not have any data to enter into an element field, please enter n/a.
+</description>
+<elementContainer>
+<element elementId="59">
+<name>Prisoner Number</name>
+<description>Found on the prisoner in the photograph.</description>
+<elementTextContainer>
+<elementText elementTextId="11909">
+<text>1355</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="60">
+<name>Height</name>
+<description>
+Please enter entire height, in the following format 171.1 for 1m 71.1cm
+</description>
+<elementTextContainer>
+<elementText elementTextId="11910">
+<text>167.2</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="96">
+<name>Eng. Ht.</name>
+<description>
+Please enter height in the following format: 5-8.5 for 5 ft 8 1/2 in.
+</description>
+<elementTextContainer>
+<elementText elementTextId="11911">
+<text>5-6</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="62">
+<name>Outs. A.</name>
+<description>
+"Outside Arm," a.k.a., "Reach." Please enter height, in the following format: 176.0 for 1m 76.0cm.
+</description>
+<elementTextContainer>
+<elementText elementTextId="11912">
+<text>168.0</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="63">
+<name>Trunk</name>
+<description>"Height of a man seated"</description>
+<elementTextContainer>
+<elementText elementTextId="11913">
+<text>90.1</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="64">
+<name>H'd lgth</name>
+<description>"Head length"</description>
+<elementTextContainer>
+<elementText elementTextId="11914">
+<text>20.0</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="65">
+<name>" wdth</name>
+<description>"Head width"</description>
+<elementTextContainer>
+<elementText elementTextId="11915">
+<text>15.4</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="92">
+<name>Chk "</name>
+<description>"Cheek width."</description>
+<elementTextContainer>
+<elementText elementTextId="11916">
+<text>13.9</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="94">
+<name>Lgth R. Ear</name>
+<description>"Length of the Right Ear"</description>
+<elementTextContainer>
+<elementText elementTextId="11917">
+<text>5.9</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="68">
+<name>L. Foot</name>
+<description>"Left foot length"</description>
+<elementTextContainer>
+<elementText elementTextId="11918">
+<text>25.3</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="69">
+<name>L. Mid F</name>
+<description>"Left middle finger"</description>
+<elementTextContainer>
+<elementText elementTextId="11919">
+<text>11.0</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="70">
+<name>L. Lit. F</name>
+<description>"Left little finger"</description>
+<elementTextContainer>
+<elementText elementTextId="11920">
+<text>8.5</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="71">
+<name>L Fore A</name>
+<description>"Left forearm"</description>
+<elementTextContainer>
+<elementText elementTextId="11921">
+<text>44.3</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="72">
+<name>Measured at [Mansfield O]</name>
+<description>
+This is a date field, if it says anything other than "Mansfield O" prior to a date, mark this record as "irregular" below. Please enter the date in the following format: 1902-03-31 for March 31, 1902.
+</description>
+<elementTextContainer>
+<elementText elementTextId="11922">
+<text>1902-07-02</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="73">
+<name>by</name>
+<description>
+Name of Bertillon Officer (usually R. U. Hastings). If this field contains anything other than R. U. Hastings's signature, mark this record as "irregular" below.
+</description>
+<elementTextContainer>
+<elementText elementTextId="11923">
+<text>R. U. Hastings</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="74">
+<name>Anomaly Marker</name>
+<description>Options: irregular, damaged</description>
+<elementTextContainer>
+<elementText elementTextId="11924">
+<text>damaged</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="76">
+<name>Cataloguer's Notes</name>
+<description>
+Feel free to wax poetic about anything you notice, here.
+</description>
+<elementTextContainer>
+<elementText elementTextId="11925">
+<text>large tear at top right corner</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="77">
+<name>Height 2</name>
+<description>
+Please enter entire height written in red, in the following format 171.1 for 1m 71.1cm
+</description>
+<elementTextContainer>
+<elementText elementTextId="12136">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="97">
+<name>Eng. Ht. 2</name>
+<description>
+Please enter height in the following format: 5-8.5 for 5 ft 8 1/2 in if a second height appears in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12137">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="79">
+<name>Outs. A. 2</name>
+<description>
+"Outside Arm," a.k.a., "Reach." Please enter height, in the following format: 176.0 for 1m 76.0cm. Fill in if a second set of data appears in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12138">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="80">
+<name>Trunk 2</name>
+<description>
+"Height of a man seated." Fill in if a second set of measurements is provided in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12139">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="81">
+<name>H'd lgth 2</name>
+<description>
+"Head length." Fill in if a second set of measurements is provided in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12140">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="83">
+<name>" wdth 2</name>
+<description>
+"Head width." Fill in if a second set of measurements is provided in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12141">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="93">
+<name>Chk " 2</name>
+<description>
+"Cheek width." Fill in if a second set of measurements is provided in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12142">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="95">
+<name>Lgth R. Ear 2</name>
+<description>
+"Length of the Right Ear." Fill in if a second set of measurements is provided in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12143">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="85">
+<name>L. Foot 2</name>
+<description>
+"Left foot length." Fill in if a second set of measurements is provided in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12144">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="86">
+<name>L. Mid F 2</name>
+<description>
+"Left middle finger." Fill in if a second set of measurements is provided in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12145">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="87">
+<name>L. Lit. F 2</name>
+<description>
+"Left little finger." Fill in if a second set of measurements is provided in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12146">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="88">
+<name>L Fore A 2</name>
+<description>
+"Left forearm." Fill in if a second set of measurements is provided in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="12147">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="90">
+<name>by 2</name>
+<description>
+Name of Bertillon Officer (usually R.U. Hastings). If this field contains anything other than R.U. Hasting's signature, mark this record as "irregular" below. Fill in if a second set of data is provided in red.
+</description>
+<elementTextContainer>
+<elementText elementTextId="53511">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="75">
+<name>Remeasured When</name>
+<description>
+If there is a remeasurement date or location, please enter it here. This often appears as a second date underneath the original measurement date, in red ink.
+</description>
+<elementTextContainer>
+<elementText elementTextId="53512">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="91">
+<name>Remeasured When 2</name>
+<description>
+If there is a second measurement in red, or the name of the person who remeasured the inmate, please include that here.
+</description>
+<elementTextContainer>
+<elementText elementTextId="53513">
+<text>n/a</text>
+</elementText>
+</elementTextContainer>
+</element>
+</elementContainer>
+</itemType>
+<elementSetContainer>
+<elementSet elementSetId="1">
+<name>Dublin Core</name>
+<description>
+The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.
+</description>
+<elementContainer>
+<element elementId="50">
+<name>Title</name>
+<description>A name given to the resource</description>
+<elementTextContainer>
+<elementText elementTextId="10235">
+<text>Prisoner 1355</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="39">
+<name>Creator</name>
+<description>
+An entity primarily responsible for making the resource
+</description>
+<elementTextContainer>
+<elementText elementTextId="10236">
+<text>Ohio State Reformatory</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="48">
+<name>Source</name>
+<description>
+A related resource from which the described resource is derived
+</description>
+<elementTextContainer>
+<elementText elementTextId="10237">
+<text>Ohio History Connection, Columbus, OH</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="38">
+<name>Coverage</name>
+<description>
+The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant
+</description>
+<elementTextContainer>
+<elementText elementTextId="10238">
+<text>Series 1416AV, Box 3808, Folder 1902: 1335-1383</text>
+</elementText>
+</elementTextContainer>
+</element>
+<element elementId="43">
+<name>Identifier</name>
+<description>
+An unambiguous reference to the resource within a given context
+</description>
+<elementTextContainer>
+<elementText elementTextId="10239">
+<text>1416AV_1355</text>
+</elementText>
+</elementTextContainer>
+</element>
+</elementContainer>
+</elementSet>
+</elementSetContainer>
+<tagContainer>
+<tag tagId="1">
+<name>pass1a</name>
+</tag>
+<tag tagId="3">
+<name>pass1b</name>
+</tag>
+</tagContainer>
+</item>
