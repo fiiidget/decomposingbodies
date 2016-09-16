@@ -1,3 +1,4 @@
+<xml>
 <item xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" itemId="561" public="1" featured="0" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://bodies.haa.pitt.edu/admin/items/show/561?output=omeka-xml" accessDate="2016-09-09T13:10:37+00:00">
 <fileContainer>
 <file fileId="670">
@@ -501,3 +502,4 @@ An unambiguous reference to the resource within a given context
 </tag>
 </tagContainer>
 </item>
+</xml>
